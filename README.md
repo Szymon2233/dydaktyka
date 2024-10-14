@@ -126,4 +126,15 @@ Jackiewicz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Szymon<br>
 <a name="skok_koniec"></a>
  		</body>
 	</html>
-
+<!DOCTYPE html>
+<html lang="pl-PL">
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Formularz_Jackiewicz</title>
+    </head>
+    <body>
+       Tutaj bedzie formularz
+        <A HREF="index.html"> Wróć </A>
+    </body>
+</html>
