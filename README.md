@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 	<html lang="pl-PL">
 	<html>
-		<head>
-			<meta charset="utf-8">
-			<meta http-equiv="content-language" content="pl" />
-			<meta name="author" content="Szymon Jackiewicz" /> 
-			<meta name="description" content="Opis" />
- 			<title> Szymon Jackiewicz </title>
-		</head>
-		<body  bgcolor="grey">
-			<a name="skok_poczatek"></a>
+		
+		
+		
 <h1>Zadanie 1</h1>			
 Szymon Jackiewicz
 <p align="right"> <font color="Green" size="7" face="Arial"> Szymon Jackiewicz </font> </p> <br>
