@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-	<html lang="pl-PL">
-	<html>
-		
+	
 		
 		
 <h1>Zadanie 1</h1>			
